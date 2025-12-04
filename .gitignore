@@ -1,0 +1,14 @@
+# Ignore Windows/Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Linux build files
+*.o
+*.out
+*.exe
+
+# Backup & logs
+*.log
